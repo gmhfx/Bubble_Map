@@ -21,7 +21,7 @@ http://www.espn.com/college-sports/football/recruiting/rankings
 
 ESPN 150 college football recruits grouped by high school and geo-coded using with Google maps API. Subplot bubbles sized to show totals.
 
-https://gmhfx.github.io/Choropleth-Map/
+https://gmhfx.github.io/Bubble_Map/
 
 ### Contact
 gmhfx20@gmail.com
